@@ -13,3 +13,10 @@ Task
   * Uses a bootstrap grid for the visualizations.
 * A "Data" page that:
   * Displays a responsive table containing the data used in the visualizations.
+
+Output
+![logo](assets/images/Landing.png)
+![logo](assets/images/Visualization.png)
+![logo](assets/images/Comparison.png)
+![logo](assets/images/Data.png)
+![logo](assets/images/Navigation.png)
