@@ -96,20 +96,19 @@ footer {
 /* Media queries */
 @media(max-width: 992px) {
 .navbar-expand-lg {
-background-color: #0BADA6 !important;
+    background-color: #0BADA6 !important;
 }
-.navbar{
-    max-height: none; 
+.navbar {
+    max-height: none;
     padding: inherit;
 }
-.navbar div{
-    margin: inherit; 
-    background-color: white;  
+.navbar div {
+    margin: inherit;
+    background-color: white;
 }
-.navbar-brand{
-    padding: 10px !important; 
+.navbar-brand {
+    padding: 10px !important;
 }
-
 button{
     margin-right: 30px; 
 }
